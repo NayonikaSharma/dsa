@@ -15,6 +15,7 @@ public class Subset {
         for(List<Integer> list: ans2){
             System.out.println(list);
         }
+        System.out.println("nayonika is gay");
     }
 
         static List<List<Integer>> subset(int[] arr){
